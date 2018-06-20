@@ -14,6 +14,7 @@ public class Schedule {
 
     public int init() {
         // TODO 方法未实现
+        int a = 0;
         return ReturnCodeKeys.E000;
     }
 
